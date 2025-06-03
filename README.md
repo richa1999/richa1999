@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:richasrivastava0712@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/richa-srivastava71299"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/richa-srivastava71299"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/richa1999"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Portfolio-grey?style=flat-square&logo=vercel" /></a>
 </p>
 
