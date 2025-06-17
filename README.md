@@ -114,7 +114,8 @@
 📬 Let's Connect!
 
 - 💌 Email: richasrivastava0712@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/richa-srivastava71299  
+- 🔗 LinkedIn: https://linkedin.com/in/richa-srivastava71299
+- 💻 Portfolio: https://richasrivastava.vercel.app/
 - 🚀 Open to freelance and collaborative projects focused on AI, frontend, and full stack solutions.
 
 Thanks for visiting! 🙌
